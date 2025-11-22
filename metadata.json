@@ -1,0 +1,5 @@
+{
+  "name": "AdminCommerce",
+  "description": "A responsive E-commerce Admin Dashboard handling product management with CRUD operations, authentication, and data visualization.",
+  "requestFramePermissions": []
+}
