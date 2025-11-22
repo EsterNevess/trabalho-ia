@@ -81,3 +81,7 @@ Este projeto segue as diretrizes WCAG 2.1 nível AA e inclui:
 - Tradução em Libras
 - Contraste adequado de cores
 - Foco visível em todos os elementos interativos
+
+## Superbase
+
+https://supabase.com/dashboard/project/rdkyugkgrxuoyxepslnl
